@@ -13,7 +13,7 @@ PlayerPrefs.GetInt(Name + "SaveGame" + Speicherslot)
 (Ersetze diese Wörter mit dem Namen und der Nummer des Speicherslots.)
 
 # 3 - Zufällige Wörter
-In diesem Projekt ist die Datei "deutsch.txt" enthalten. Wenn du andere Wörter generieren möchtest, kannst du sie im Scipt "Saves" in das Feld "deutsch" ziehen.
+Wenn du zufällige Wörter generieren möchtest, kannst du sie im Scipt "Saves" in das Feld "deutsch" ziehen.
 Die Wörter sollten in einer .txt mit einer Zeile pro Wort aufgelistet sein.
 
 # 4 – Fertig!
